@@ -1,0 +1,59 @@
+<<<<<<< HEAD
+Tabla de registros MAC 2.4G - CIA Salim
+
+usr: admin
+pwd: password
+
+76:E2:0D:49:31:F3
+70:70:0D:13:4D:20
+0C:2C:54:57:33:D7
+4C:66:41:6A:CC:CC
+34:AB:37:32:7A:EC
+48:79:4D:A9:DA:27 - Samsung A20s (Eduardo)
+08:74:02:0A:37:2E
+90:63:3B:43:32:29
+7C:03:AB:E5:E9:42 - Xiaomi Redmi 6 (Liss)
+B8:1D:AA:B6:08:36
+AC:B5:7D:48:27:19
+F4:B7:E2:59:DF:95 - Dell Latitude E5430 (Eduardo)
+88:07:4B:DD:E0:3A
+84:D6:D0:14:01:5A
+88:29:9C:10:41:8F
+B4:CE:40:C7:13:C5
+00:02:72:38:71:F9
+18:87:40:7B:08:DF - Xiaomi Note 9 (Hno. Marco)
+94:2D:DC:DB:93:62 - Samsung A10s (Jefferson)
+AC:5F:3E:3B:F1:DA - Samsung Note 5 (Liss)
+00:02:72:38:71:F9 - PC Pantallas (Eth B8:97:5A:86:E7:39)
+98:b8:ba:8d:06:10 - HnaMaritza
+
+=======
+Tabla de registros MAC 2.4G - CIA Salim
+
+usr: admin
+pwd: password
+
+76:E2:0D:49:31:F3
+70:70:0D:13:4D:20
+0C:2C:54:57:33:D7
+4C:66:41:6A:CC:CC
+34:AB:37:32:7A:EC
+48:79:4D:A9:DA:27 - Samsung A20s (Eduardo)
+08:74:02:0A:37:2E
+90:63:3B:43:32:29
+7C:03:AB:E5:E9:42 - Xiaomi Redmi 6 (Liss)
+B8:1D:AA:B6:08:36
+AC:B5:7D:48:27:19
+F4:B7:E2:59:DF:95 - Dell Latitude E5430 (Eduardo)
+88:07:4B:DD:E0:3A
+84:D6:D0:14:01:5A
+88:29:9C:10:41:8F
+B4:CE:40:C7:13:C5
+00:02:72:38:71:F9
+18:87:40:7B:08:DF - Xiaomi Note 9 (Hno. Marco)
+94:2D:DC:DB:93:62 - Samsung A10s (Jefferson)
+AC:5F:3E:3B:F1:DA - Samsung Note 5 (Liss)
+00:02:72:38:71:F9 - PC Pantallas (Eth B8:97:5A:86:E7:39)
+98:b8:ba:8d:06:10 - HnaMaritza
+
+>>>>>>> 431fc2e32d900f5d1320e98da490e4d13bb526b7
