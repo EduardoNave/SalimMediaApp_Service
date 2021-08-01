@@ -26,7 +26,7 @@ B4:CE:40:C7:13:C5
 AC:5F:3E:3B:F1:DA - Samsung Note 5 (Liss)
 00:02:72:38:71:F9 - PC Pantallas (Eth B8:97:5A:86:E7:39)
 98:b8:ba:8d:06:10 - HnaMaritza
-
+c4:18:e9:f0:17:60 - Acompañante Pastor Omar Marinero
 =======
 Tabla de registros MAC 2.4G - CIA Salim
 
